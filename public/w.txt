@@ -1,0 +1,5 @@
+<html><body><div id="t">	
+<input type="text" name="">
+<input type="text" name="" value="مسعود">
+<input type="submit" name="" value="register" maxlength="400">
+</div></body></html>

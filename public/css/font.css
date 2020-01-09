@@ -1,0 +1,37 @@
+
+
+
+@font-face{
+    font-family: 'vazir','sans-serif';
+    src:url("../fonts/Vazir-FD.woff")format("woff"),
+    url("../fonts/Vazir-FD.eot")format("eot"),
+    url("../fonts/Vazir-FD.ttf")format("truetype")
+}
+@font-face{
+    font-family: 'Gandom','sans-serif';
+    src:url("../fonts/Gandom.woff")format("woff"),
+    url("../fonts/Gandom.eot")format("eot"),
+    url("../fonts/Gandom.ttf")format("truetype")
+}
+@font-face{
+    font-family: 'Nahid','sans-serif';
+    src:url("../fonts/Nahid.woff")format("woff"),
+    url("../fonts/Nahid.eot")format("eot"),
+    url("../fonts/Nahid.ttf")format("truetype")
+}
+@font-face{
+    font-family: 'Sahel','sans-serif';
+    src:url("../fonts/Sahel.woff")format("woff"),
+    url("../fonts/Sahel.eot")format("eot"),
+    url("../fonts/Sahel.ttf")format("truetype")
+}
+@font-face{
+    font-family: 'Parastoo','sans-serif';
+    src:url("../fonts/Parastoo.woff")format("woff"),
+    url("../fonts/Parastoo.eot")format("eot"),
+    url("../fonts/Parastoo.ttf")format("truetype")
+}
+.gg{
+    font-family: 'Sahel','sans-serif';
+
+}
